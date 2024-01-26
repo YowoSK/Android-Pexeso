@@ -3,7 +3,7 @@
 This project is a memory game app for Android devices, developed with Kotlin and Gradle.
 
 ## Introduction
-This is a personal portfolio project that demonstrates my skills and abilities in Android development. The app features a simple and intuitive interface, where the user can play a memory game with cards that have different images on them. The user can choose from three difficulty levels, and the app tracks the score and time for each game.
+This is a personal portfolio project that demonstrates my skills and abilities in Android development. The app features a simple and intuitive interface, where the user can play a memory game with cards that have different images on them. The user can choose from difficulty levels, and the app tracks the score for each game.
 
 ## Installation
 To install the app, you need to have Android Studio and an Android device or emulator. You can clone this repository and open it in Android Studio, then run the app on your device or emulator.
