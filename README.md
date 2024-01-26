@@ -2,6 +2,8 @@
 
 https://yowosk.github.io/Android-Pexeso/index.html
 
+https://www.figma.com/file/2WdNqvIqsEQRHSE7fICyVl/Android?type=design&node-id=0%3A1&mode=design&t=gTfwqJHj88plHLuk-1
+
 This project is a memory game app for Android devices, developed with Kotlin and Gradle.
 
 ## Introduction
